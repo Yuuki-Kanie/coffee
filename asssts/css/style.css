@@ -20,14 +20,13 @@ p{
 .wrapper{
     width:100%;
     margin:auto;
-    border:3px solid red;
 }
 
 .nav{
     overflow:auto;
     width:85%;
     margin:1em auto;
-    border:3px solid green;
+   
 }
 .nav h1{
     text-transform: uppercase;
